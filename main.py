@@ -9,7 +9,7 @@ from hh import keep_alive
 
 sto = {"stop": False}
 token = "6691632257:AAEZAdqwt66aYx_A0UHbnNW07zeW3LunVKw"
-id = 1305952612
+id = 6095056716
 channel_username = "@v_8_d"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
