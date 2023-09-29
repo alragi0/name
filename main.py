@@ -8,8 +8,8 @@ from colorama import Fore
 from hh import keep_alive
 
 sto = {"stop": False}
-token = "6691632257:AAEZAdqwt66aYx_A0UHbnNW07zeW3LunVKw"
-id = 6095056716
+token = "6629300242:AAEH2J7yFrJnhnHd1vi5dpWgEGLd7uvWLzM"
+id = 1327497048
 channel_username = "@v_8_d"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
